@@ -1,2 +1,2 @@
-
-hi this is dockerfile
+FROM Ubuntu
+RUN apt-get install tree -y
